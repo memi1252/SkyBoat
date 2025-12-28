@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ac69573979bb794ebfff8a0a6b14525, type: 3}
+  m_Name: Sword1_GoldItem
+  m_EditorClassIdentifier: Assembly-CSharp::ItemInfo
+  itemCode: Sword1_Gold
+  itemName: "\uACE8\uB4DC \uAC80"
+  itemIcon: {fileID: 0}
+  DropPrefab: {fileID: 6107509450182477593, guid: f1802404af70052408f845503fd83885, type: 3}
+  none: 0
+  greatSword: 1

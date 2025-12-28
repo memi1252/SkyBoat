@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Lobby.unity
+    guid: 7c1bd27b7df0e5d4fa748416c5e10545
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Lobbing.unity
+    guid: f1a270f5c682501408f62b35278d1404
+  - enabled: 1
+    path: Assets/Scenes/engging.unity
+    guid: dbf19e57ae45f6049b48af02e043cc8c
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e371d8b8daace7a44a2a359718e2e4c4, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
